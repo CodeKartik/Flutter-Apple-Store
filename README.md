@@ -45,14 +45,14 @@
 ------------
 
 #### Packages Used:
- - provider: ^5.0.0
- - flutter_login: ^2.0.0
- - shared_preferences: ^2.0.6
- - get: ^4.1.4
- - material_floating_search_bar: ^0.3.4
- - awesome_card: ^1.1.5
- - fluttertoast: ^8.0.7
- - badges: ^2.0.1
+ - `provider: ^5.0.0`
+ - `flutter_login: ^2.0.0`
+ - `shared_preferences: ^2.0.6`
+ - `get: ^4.1.4`
+ - `material_floating_search_bar: ^0.3.4`
+ - `awesome_card: ^1.1.5`
+ - `fluttertoast: ^8.0.7`
+ - `badges: ^2.0.1`
 
 ###### For more info on packages visit [here](http://pub.dev "here")
 ------------
